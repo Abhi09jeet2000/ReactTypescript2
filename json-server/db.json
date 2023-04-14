@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "title": "Swimming",
+      "dateStart": "2023-04-12T08:45:42.305Z",
+      "dateEnd": "2023-04-12T09:49:42.305Z",
+      "id": 1
+    },
+    {
+      "title": "Learning Typescript",
+      "dateStart": "2023-04-12T09:45:42.305Z",
+      "dateEnd": "2023-04-12T10:59:42.305Z",
+      "id": 2
+    },
+    {
+      "title": "Working Redux saga",
+      "dateStart": "2023-04-14T04:16:08.291Z",
+      "dateEnd": "2023-04-14T04:16:10.394Z",
+      "id": 3
+    }
+  ]
+}
